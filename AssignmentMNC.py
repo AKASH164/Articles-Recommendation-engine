@@ -4,7 +4,7 @@ Created on Wed Mar  3 16:27:55 2021
 
 @author: P.Akash Pattanaik
     
-AI_coding_assignment_MNC: converting to json format
+AI_coding_assignment_MNC
 """
 # Import required libraries
 import json # for importing data from json file
