@@ -1,0 +1,7 @@
+Name,Gender,Age,Geography,Profession,Entertainment,Media,Politics,World News,Comedy,Sports
+A,Female,28,Jakarta,Actor,1,1,1,0,0,0
+B,Female,28,Jakarta,Engineer,0,1,1,0,0,0
+C,Male,55,India,Doctor,0,0,0,1,0,0
+D,Male,15,India,Student,0,1,0,0,1,0
+E,Female,45,Jakarta,Engineer,0,0,0,1,0,0
+F,Female,35,Jakarta,Lawyer,0,0,0,0,1,1
